@@ -1,0 +1,6 @@
+{
+    "name": "rmy/idehelper",
+    "require": {
+        "barryvdh/laravel-ide-helper": "^2.4"
+    }
+}

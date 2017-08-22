@@ -1,0 +1,3 @@
+fields:
+  environments:
+    type: list
